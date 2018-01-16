@@ -1,4 +1,6 @@
 //  ***  I am client   ***
+// *** I will send text messages to server ***
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<netdb.h>
